@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+p{
+    text-align: center;
+    
+}
+
+.top-banner{
+    background-image: url(donation5.jpg);
+    /* background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+    text-align:center ;
+    color: aliceblue;
+    padding: 80px; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+    text-align: center;
+    justify-content: center;
+    justify-content: center;
+    padding: 200px 100px;
+    color: white;
+    
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    text-align: center;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.donate-tk{
+    color: coral;
+    text-align: center;
+    justify-content: center;
+}
+.lock{
+    color: rgb(249, 144, 17);
+    background-color: rgb(243, 240, 230);
+    border: 4px solid orangered;
+}
+.unlock{
+    background-color: rgb(247, 224, 193);
+}
+
+.donate-tk li{
+    display: inline-block;
+    
+    font-size: 30px;
+    font-weight: 700;
+    padding: 25px 25px;
+    border-radius: 5px;
+    margin-left: 10px;
+     
+
+}
+.donate{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+}
+input{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.donation{
+    display: block;
+    border: none;
+    border-bottom: 1px solid;
+    margin: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+#first{
+    background-color: rgb(224, 250, 241);
+
+}
+#second{
+    background-color: rgb(233, 201, 201);
+}
+#third{
+    background-color: rgb(240, 222, 188);
+}
+.half-width{
+    width: 100%;
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.fav{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    
+
+}
+    
