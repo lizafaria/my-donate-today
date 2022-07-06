@@ -1,0 +1,17 @@
+.fourth-banner{
+    display: flex;
+    margin: 40px 10px 40px 10px;
+    
+}
+.fouth-banner-items{
+    justify-content: center;
+    
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 51, 0), red);
+    padding: 10px 15px ;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
